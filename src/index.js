@@ -70,6 +70,8 @@ deleteButton.addEventListener("click", () => {
 
 deleteButton.style.marginLeft = "15px";
 deleteButton.style.color = "red"; 
+
+
 // Add an edit button
 const editButton = document.createElement("button");
 editButton.textContent = "Edit";
